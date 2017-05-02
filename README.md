@@ -14,6 +14,4 @@ How?
 
 # Usage 
 
-> python main.py 
-Enter a Stock Symbol: <Enter Symbol>
-Enter Related Stock Symbols (comma separated): <Enter related Symbols>
+> python main.py   
